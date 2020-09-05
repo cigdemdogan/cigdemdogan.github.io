@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Çiğdem'in Nezaketi"
+title:  "Çİğdem'in Nezaketi"
 date:   2020-09-05
 excerpt: "Çiğdem Doğan Dünyanın En Nazik İnsanıdır"
 image: "/images/nezaket.jpg"

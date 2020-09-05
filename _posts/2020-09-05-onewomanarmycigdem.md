@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "One Woman Army Çiğdem"
+title:  "One Woman Army Çİğdem"
 date:   2020-09-05
 excerpt: "Be aware"
 image: "/images/onewomanarmy.jpg"
