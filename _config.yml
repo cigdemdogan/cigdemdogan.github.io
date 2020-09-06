@@ -50,6 +50,12 @@ sass:
   sass_dir:         _sass
   style:            compressed
 
+webmaster_verifications:
+  google: <meta name="google-site-verification" content="rTnWjnntpWhBhb5G4woL5YVLWPofUq6IISJ1VeGdQbg" />
+#  bing: 1234
+#  alexa: 1234
+  yandex: 1234
+#  baidu: 1234
 # Gems
 plugins:
   - jekyll-mentions
