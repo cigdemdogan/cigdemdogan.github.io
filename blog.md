@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Çİğdem Doğan
+title: Çiğdem Doğan
 description: Çiğdem Doğan Sufuk' un Gözünden.
 sitemap:
     priority: 1.0
