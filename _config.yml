@@ -1,9 +1,7 @@
 # Site
 title:              Çiğdem Doğan
-tagline:            Sufuk
-#bio:                'Çiğdem Doğan Sufukun bio"'
 description:        "Sufuk"
-locale:             en_US
+locale:             tr_TR
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
