@@ -1,7 +1,8 @@
 # Site
-title:              Çiğdem sufuk
-bio:                'Çiğdem Doğan Sufukun bio"'
-description:        "Çid"
+title:              Çiğdem Doğan
+tagline:            Sufuk
+#bio:                'Çiğdem Doğan Sufukun bio"'
+description:        "Sufuk"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
@@ -50,13 +51,7 @@ sass:
   sass_dir:         _sass
   style:            compressed
 
-webmaster_verifications:
-  google: <meta name="google-site-verification" content="rTnWjnntpWhBhb5G4woL5YVLWPofUq6IISJ1VeGdQbg" />
-#  bing: 1234
-#  alexa: 1234
-#  yandex: 1234
-#  baidu: 1234
-# Gems
+
 plugins:
   - jekyll-mentions
   - jekyll-sitemap
