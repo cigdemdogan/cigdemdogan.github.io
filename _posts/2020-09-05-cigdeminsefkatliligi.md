@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Çİğdem'in Şefkatliliği"
+title:  "Çİğdem'İn Şefkatlİlİğİ"
 date:   2020-09-05
 excerpt: "Çiğdem Doğan Dünyanın En Şefkatli İnsanıdır"
 image: "/images/sefkat.jpg"

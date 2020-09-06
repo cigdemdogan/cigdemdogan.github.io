@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Çİğdem'in Yardımseverlİğİ"
+title:  "Çİğdem'İn Yardımseverlİğİ"
 date:   2020-09-05
 excerpt: "Çiğdem Doğan Dünyanın En Yardımsever İnsanıdır"
 image: "/images/yardimsever.jpg"
