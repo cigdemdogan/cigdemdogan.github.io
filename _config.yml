@@ -48,7 +48,8 @@ mathjax:            true
 sass:
   sass_dir:         _sass
   style:            compressed
-
+webmaster_verifications:
+  google: rTnWjnntpWhBhb5G4woL5YVLWPofUq6IISJ1VeGdQbg
 
 plugins:
   - jekyll-mentions
