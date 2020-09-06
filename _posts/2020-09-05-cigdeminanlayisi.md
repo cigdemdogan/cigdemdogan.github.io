@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Çİğdem'İn Anlayışlılığı"
+title:  "Çiğdem'İn Anlayışlılığı"
 date:   2020-09-05
 excerpt: "Çiğdem Doğan Dünyanın En Anlayışlı İnsanıdır"
 image: "/images/anlayis.jpg"
