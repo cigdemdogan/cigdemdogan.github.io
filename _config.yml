@@ -1,7 +1,7 @@
 # Site
-title:              Çiğdem Doğan
-bio:                'Çiğdem Doğan Sufukun Gözünden'
-description:        "Çiğdem Doğan Sufukun Gözünden"
+title:              Çiğdem sufuk
+bio:                'Çiğdem Doğan Sufukun bio"'
+description:        "Çid"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
