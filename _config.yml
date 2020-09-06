@@ -51,6 +51,10 @@ sass:
 webmaster_verifications:
   google: rTnWjnntpWhBhb5G4woL5YVLWPofUq6IISJ1VeGdQbg
 
+jekyll_analytics:
+  GoogleAnalytics:          # Add, if you want to track with Google Analytics
+    id: UA-177220020-2          # Required - replace with your tracking id
+    anonymizeIp: false
 plugins:
   - jekyll-mentions
   - jekyll-sitemap
@@ -58,6 +62,8 @@ plugins:
   - jekyll-gist
   - jekyll-paginate
   - jekyll-seo-tag
+  - jekyll-analytics
+
 paginate: 6
 paginate_path: "/blog/page:num/"
 
