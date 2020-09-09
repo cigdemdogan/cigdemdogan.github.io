@@ -1,12 +1,15 @@
 ---
 layout: post
-title:  "Yanak Çiğdem"
-date:   2020-09-09
-excerpt: "Çiğdem Doğan Dünyanın En Tatlı İnsanıdır"
-image: "/images/yanak.jpg"
+title:  "One Woman Army Çiğdem"
+date:   2020-09-05
+excerpt: "Be aware"
+image: "/images/onewomanarmy.jpg"
 ---
+<br />
+Çiğdem Doğan' ın sakin güler yüzüne kanıp sakın sataşmayın.
+<br />
+Şahidi olduğum bir zaman da gözümün önünde 70 mekik çektiğini hatırlıyorum 70 !!
+Babasının mesleğinden mi olsa gerek bir sportiflik var  kendinin iki katı ağır <br />
+insanları kaldırabiliyor, güreşebiliyor <br /> ve gerçekten aşırı güçlü. <br />
 
-Çiğdem'in kendisi pek hoşlanmasa bence yanakları dünyadaki en tatlı şey.  
-Bi kere çok sevimli bir görünüm sağlıyor ve gülümseyince tüm suratı gülmül gibi  
-oluyor çok tatlı bişey. Üstelik gülünce gözlerini de büyütüyor biraz ve görebileceğiniz  
-en sevimli şey oluyor. Her zaman Çiğdem'i yanaklarından tutup havaya kaldırmak istemişimdir.
+Be aware that woman is crazy...
