@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Çiğdem Doğan
-description: Çiğdem Doğan Sufuk' un Gözünden.
-sitemap:
-    priority: 1.0
-    lastmod: 2017-11-02
-    changefreq: weekly
+title: Love Yaa
 ---
+## Thank you for your correspondence
+We are delighted to hear from you. You may expect to receive an answer soon.
+
+Have a nice day!
